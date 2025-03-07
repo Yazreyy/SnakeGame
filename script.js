@@ -12,6 +12,7 @@ window.onload = function()
     var score;
     var timeout;
     init();
+    console.log("caca");
 
 
     function init() 
